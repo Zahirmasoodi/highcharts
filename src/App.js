@@ -30,15 +30,15 @@ const App = () => {
   const [selected, setSelected] = useState(1);
 
   const show = () => {
-    if (selected == 1) {
+    if (selected === 1) {
       return <Cannibas />;
-    } else if (selected == 2) {
+    } else if (selected === 2) {
       return <Sedatives />;
-    } else if (selected == 3) {
+    } else if (selected === 3) {
       return <Cocaine />;
-    } else if (selected == 4) {
+    } else if (selected === 4) {
       return <Inhalants />;
-    } else if (selected == 5) {
+    } else if (selected === 5) {
       return <InjectDrugs />;
     }
   };
@@ -54,7 +54,7 @@ const App = () => {
         <Collapse isOpen={isOpen} navbar>
           <Nav className="mr-auto" navbar>
             <NavItem>
-              <NavLink href="#">Aabid Sofi</NavLink>
+              <NavLink href="#">Abid Sofi</NavLink>
             </NavItem>
 
             <UncontrolledDropdown nav inNavbar>

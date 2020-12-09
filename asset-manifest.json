@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/highcharts/static/css/main.52ce963c.chunk.css",
-    "main.js": "/highcharts/static/js/main.936c6de3.chunk.js",
-    "main.js.map": "/highcharts/static/js/main.936c6de3.chunk.js.map",
+    "main.js": "/highcharts/static/js/main.56c5c6f7.chunk.js",
+    "main.js.map": "/highcharts/static/js/main.56c5c6f7.chunk.js.map",
     "runtime-main.js": "/highcharts/static/js/runtime-main.fb3ec4cb.js",
     "runtime-main.js.map": "/highcharts/static/js/runtime-main.fb3ec4cb.js.map",
     "static/css/2.20aa2d7b.chunk.css": "/highcharts/static/css/2.20aa2d7b.chunk.css",
@@ -20,6 +20,6 @@
     "static/css/2.20aa2d7b.chunk.css",
     "static/js/2.53947a4d.chunk.js",
     "static/css/main.52ce963c.chunk.css",
-    "static/js/main.936c6de3.chunk.js"
+    "static/js/main.56c5c6f7.chunk.js"
   ]
 }

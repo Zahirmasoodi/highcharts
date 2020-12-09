@@ -38,7 +38,7 @@ const App = () => {
         style={{ backgroundColor: "#D3D3D3", minHeight: "100vh" }}
       >
         <Switch>
-          <Route exact path="/cannibas" component={Cannibas} />
+          <Route exact path="/" component={Cannibas} />
           <Route exact path="/cocaine" component={Cocaine} />
           <Route exact path="/inhalants" component={Inhalants} />
           <Route exact path="/injectdrugs" component={InjectDrugs} />

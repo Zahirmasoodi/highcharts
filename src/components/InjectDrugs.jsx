@@ -108,13 +108,11 @@ const InjectDrugs = () => {
     ],
   };
   return (
-    <Container>
-      <HighchartsReact
-        containerProps={{ style: { height: "85vh" } }}
-        highcharts={Highcharts}
-        options={options}
-      />
-    </Container>
+    <HighchartsReact
+      containerProps={{ style: { height: "85vh" } }}
+      highcharts={Highcharts}
+      options={options}
+    />
   );
 };
 

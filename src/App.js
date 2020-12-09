@@ -34,8 +34,8 @@ const App = () => {
     <HashRouter>
       <Container
         fluid
-        className="App pr-0 pl-0 pt-5"
-        style={{ backgroundColor: "#D3D3D3", minHeight: "100vh" }}
+        className="App pr-2 pl-2 mt-3 mb-3"
+        style={{ minHeight: "100vh" }}
       >
         <Switch>
           <Route exact path="/" component={Cannibas} />

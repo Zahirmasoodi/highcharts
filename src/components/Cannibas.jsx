@@ -156,10 +156,10 @@ const Cannibas = () => {
     ],
   };
   return (
-    <Container className="mt-5">
+    <Container>
       <HighchartsReact
         containerProps={{
-          style: { height: "75vh" },
+          style: { height: "85vh" },
         }}
         highcharts={Highcharts}
         options={options}
